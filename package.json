@@ -1,6 +1,6 @@
 {
-  "name": "muqaddas29-simple-calculator",
-  "version": "1.0.7",
+  "name": "muqaddas30-simple-calculator",
+  "version": "1.0.8",
   "description": "A simple calculator with Typescript, node.js, and inquirer",
   "main": "index.js",
   "type": "module",
@@ -8,7 +8,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Muqaddas Shoaib",
+  "author": "",
   "license": "MIT",
   "dependencies": {
     "inquirer": "^9.2.20"
